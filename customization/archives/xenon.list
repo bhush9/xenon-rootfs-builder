@@ -1,0 +1,2 @@
+deb http://archive.xenon.pangea.pub/unstable @DISTRIBUTION@ main
+deb-src http://archive.xenon.pangea.pub/unstable @DISTRIBUTION@ main
